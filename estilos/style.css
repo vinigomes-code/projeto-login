@@ -95,7 +95,7 @@ div.campo > input{
     border: 0px;
     border-radius: 8px;
     padding: 4px;
-    transform: translateY(-12px);
+    transform: translateY(-10px);
 }
 
 div.campo > input:focus-within{ /*seleciona um elemento que consiste em um elemento focado como filho. As regras CSS são aplicadas quando qualquer elemento filho recebe o foco. O exemplo inclui clicar em um link, selecionar uma entrada, etc*/
